@@ -1,2 +1,2 @@
 # lemache-cayambe-segundo-cristhian-moviles
-#Computacion
+Computación - Primer Commit
